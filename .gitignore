@@ -208,3 +208,6 @@ __marimo__/
 # archive files
 test.ipynb
 data/
+
+#generated files
+generated/
